@@ -1,9 +1,9 @@
 img {
 padding-bottom: 25px;
 padding-top: 25px;
-margin-left: 50px;
-margin-right: 50px;
+max-height:300;
 }
+
 a { 
 text-decoration:none; 
 font-weight:600; 
@@ -58,7 +58,11 @@ color:#175372;
 }
 
 div {
-padding:20px;
+padding:10px;
+}
+
+#sidebar{
+    margin-top:50px;
 }
 
 div.one {
