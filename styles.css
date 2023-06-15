@@ -57,12 +57,17 @@ color:#175372;
     margin: 20px;
 }
 
+a.menu:hover{
+background-color: #C0C0C0;
+}
+
 div {
 padding:10px;
 }
 
 #sidebar{
-    margin-top:50px;
+    margin-top:90px;
+    text-align: right;
 }
 
 div.one {
@@ -70,6 +75,9 @@ margin-bottom:40px;
 max-width:900px;
 }
 
+ul {
+list-style-type: none;
+}
 
 body {
 background-color: #F0F0F0;
