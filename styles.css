@@ -54,30 +54,24 @@ color:#3D9970;
 }
 
 
-div {
-padding:10px;
-}
 
 #sidebar{
     margin-top:90px;
     text-align: right;
+    width: 150px;
 }
 
-div.one {
-margin-bottom:40px;
-max-width:900px;
-}
 
-ul {
+.side {
 list-style-type: none;
 }
 
 body {
 background-color: #F0F0F0;
-font-family:helvetica, arial, sans-serif;
+font-family:Roboto, helvetica, arial, sans-serif;
 font-size:13px;
-margin-left:75px;
-margin-right:75px;
+margin-left:25px;
+margin-right:25px;
 margin-top:70px;
 margin-bottom:75px;
 }
