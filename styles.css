@@ -1,7 +1,8 @@
 img {
 padding-bottom: 25px;
 padding-top: 25px;
-max-height:100;
+max-width:300px;
+height: auto;
 }
 
 a { 
@@ -14,6 +15,10 @@ color:#fa9f1e;
 
 .paper {
 color:#d74e26;
+font-weight:600; 
+}
+
+
 }
 
 
@@ -42,13 +47,17 @@ margin: 6px 0;
 
 h1{
 color: #006837;
+margin: 10px;
 }
 
 h2 {
-text-align: center;
 color:#006837;
+margin: 10px;
 }
 
+h3 {
+color:#388ed1;
+}
 #general_info{
     margin: 20px;
 }
@@ -70,7 +79,7 @@ list-style-type: none;
 }
 
 body {
-background-color: #f0f0f0;
+background-color: #ffffff;
 font-family: Roboto;
 font-size:13px;
 margin-left:25px;
