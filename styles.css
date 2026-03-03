@@ -1,5 +1,5 @@
 /* =========================================================
-   Federico Castillo — minimal academic theme (Bootstrap-friendly)
+   Federico Castillo -- minimal academic theme
    Change colors in :root and the whole site updates.
    ========================================================= */
 
@@ -19,35 +19,52 @@
   --maxw: 980px;
 }
 
-/* Let Bootstrap do layout; we just set global feel */
 body{
   background: var(--bg);
   color: var(--text);
   font-family: Roboto, system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
   font-size: 18px;
   line-height: 1.65;
-
-  /* Center the content area even when using container-fluid */
   max-width: var(--maxw);
   margin: 48px auto 72px auto;
   padding: 0 20px;
 }
 
-/* Make Bootstrap container-fluid not stretch too wide */
-.container-fluid{
-  padding-left: 0;
-  padding-right: 0;
+/* ===== Simple Navbar ===== */
+.navbar {
+  display: flex;
+  gap: 2rem;
+  padding: 0 0 1rem 0;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
 }
 
-/* Images: avoid huge padding; keep it tidy */
+.navbar a {
+  text-decoration: none;
+  color: var(--muted);
+  font-size: 1rem;
+  padding-bottom: 0.5rem;
+  transition: color 0.2s;
+}
+
+.navbar a:hover {
+  color: var(--text);
+}
+
+.navbar a.active {
+  color: var(--text);
+  border-bottom: 2px solid var(--link);
+}
+
+/* ===== Images ===== */
 img{
   display: block;
   max-width: 320px;
   height: auto;
-  border-radius: 10px;     /* subtle modern touch */
+  border-radius: 10px;
 }
 
-/* Headings */
+/* ===== Headings ===== */
 h1{
   color: var(--heading);
   margin: 0 0 10px 0;
@@ -57,7 +74,7 @@ h1{
 
 h2{
   color: var(--heading);
-  margin: 18px 0 10px 0;
+  margin: 28px 0 10px 0;
   font-weight: 700;
 }
 
@@ -66,9 +83,15 @@ h3{
   margin: 22px 0 8px 0;
   font-weight: 700;
   font-size: 1.1rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 4px;
 }
 
-/* Links: readable, academic, not “button-like” */
+h3 + p {
+  margin-top: 0.3rem;
+}
+
+/* ===== Links ===== */
 a{
   color: var(--link);
   text-decoration: underline;
@@ -82,77 +105,51 @@ a:focus{
   text-decoration-thickness: 2px;
 }
 
-/* “Paper” emphasis (if you use it elsewhere) */
 .paper{
   color: var(--paper);
   font-weight: 600;
 }
 
-/* Paragraph spacing: more readable than margin: 1px */
+/* ===== Paragraphs ===== */
 p{
   margin: 0.6rem 0;
 }
 
-/* If you want the short affiliation lines tighter than bio text */
 .header-lines p{
   margin: 0.25rem 0;
   color: var(--muted);
 }
 
-/* Lists you had */
+/* ===== Lists ===== */
 .list li{ margin: 0.9rem 0; }
 .list--tight li{ margin: 0.35rem 0; }
 
-/* Navbar: keep Bootstrap look but make it a bit cleaner */
-.navbar{
-  border: 1px solid var(--border);
-  border-radius: 12px;
+/* ===== Layout ===== */
+.profile-section {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 1.5rem;
+  align-items: flex-start;
 }
 
-/* Optional: slightly tone down nav link weight */
-.navbar .nav-link{
-  text-decoration: none; /* nav looks cleaner without underline */
+.content-section {
+  margin-top: 1.5rem;
 }
 
-/* A little breathing room after the nav */
-.navbar + .row{
-  margin-top: 18px;
-}
-
-/* --- Section spacing --- */
-h3 + p {
-  margin-top: 0.3rem;
-}
-
-h3 {
-  border-bottom: 1px solid var(--border);
-  padding-bottom: 4px;
-}
-
-/* =========================================================
-   Publications styling
-   ========================================================= */
-
-/* Make lists breathe and align nicely */
+/* ===== Publications ===== */
 .pubs ol, .pubs ul{
-  padding-left: 1.2rem;
+  padding-left: 1.4rem;
 }
 
-/* Publication lists: consistent spacing */
 .pubs ol li, .pubs ul li{
   margin: 0.9rem 0;
   padding: 0.85rem 0.9rem;
   border: 1px solid var(--border);
   border-radius: 12px;
   background: var(--bg);
+  line-height: 1.55;
 }
 
-/* If you want the list items slightly separated from the number */
-.pubs ol{
-  padding-left: 1.4rem;
-}
-
-/* Paper title: make it look like a title, not just a colored link */
 a.paper{
   color: var(--heading);
   font-weight: 700;
@@ -167,35 +164,11 @@ a.paper:focus{
   text-underline-offset: 2px;
 }
 
-/* Coauthor/journal lines: treat as metadata */
-.pubs ol li, .pubs ul li{
-  line-height: 1.55;
-}
-
-/* Anything in <b> inside entries tends to be venue info: mute it a bit */
 .pubs ol li b, .pubs ul li b{
   color: var(--muted);
   font-weight: 700;
 }
 
-/* Make the “online version” links not fight your palette */
-.pubs ol li a[style*="color: black"],
-.pubs ul li a[style*="color: black"]{
-  color: var(--link) !important;
-  text-decoration: underline !important;
-}
-
-/* Tighten consecutive <br> effects a bit */
-.pubs ol li br, .pubs ul li br{
-  content: "";
-}
-
-/* Section headings spacing on research page */
-h2{
-  margin-top: 28px;
-}
-
-/* Optional: subtle emphasis for the most recent preprints */
 .pubs ol[reversed] > li:first-child{
   background: var(--card);
 }
@@ -203,4 +176,22 @@ h2{
 .pub-link{
   color: var(--link);
   text-decoration: underline;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 600px) {
+  .navbar {
+    gap: 1.5rem;
+    justify-content: center;
+  }
+
+  .profile-section {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  img {
+    max-width: 200px;
+  }
 }

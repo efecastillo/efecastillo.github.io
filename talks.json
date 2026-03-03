@@ -1,0 +1,1103 @@
+{
+  "semesters": [
+    {
+      "id": "2026-1",
+      "name": "PRIMER SEMESTRE 2026",
+      "current": true,
+      "talks": [
+        {
+          "date": "2026-03-10",
+          "displayDate": "10 de marzo",
+          "speaker": "Jesse Huang",
+          "affiliation": "University of Waterloo",
+          "title": "A user's guide to coherent constructive correspondence."
+        },
+        {
+          "date": "2026-03-16",
+          "displayDate": "16 de marzo",
+          "speaker": "Damian de la Fuente",
+          "affiliation": "Universidad de Talca",
+          "title": "Sizes of Bruhat intervals."
+        },
+        {
+          "date": "2026-03-30",
+          "displayDate": "30 de marzo",
+          "speaker": "Yulieth Prieto",
+          "affiliation": "Pontificia Universidad Católica",
+          "title": "Categorias derivadas de superficies de Gushel-Mukai."
+        }
+      ]
+    },
+    {
+      "id": "2025-2",
+      "name": "SEGUNDO SEMESTRE 2025",
+      "current": false,
+      "talks": [
+        {
+          "date": "2025-11-17",
+          "displayDate": "17 de noviembre",
+          "speaker": "Daniel Barrera",
+          "affiliation": "Universidad Santiago de Chile",
+          "title": "Compatibilidad local-global y la conjetura excepcional del cero para GL(3)."
+        },
+        {
+          "date": "2025-11-03",
+          "displayDate": "03 de noviembre",
+          "speaker": "Giancarlo Lucchini",
+          "affiliation": "Universidad de Chile",
+          "title": "Formas reales de variedades de complejidad 1."
+        },
+        {
+          "date": "2025-10-20",
+          "displayDate": "20 de octubre",
+          "speaker": "Eduardo Reyes",
+          "affiliation": "Pontificia Universidad Católica",
+          "title": "Variedades hiperbólicas aritméticas e hiperbolización estricta."
+        },
+        {
+          "date": "2025-10-06",
+          "displayDate": "06 de octubre",
+          "speaker": "Juan Pablo Zuniga",
+          "affiliation": "Pontificia Universidad Católica",
+          "title": "Singularidades de Wahl en degeneraciones de superficies del Pezzo."
+        },
+        {
+          "date": "2025-09-22",
+          "displayDate": "22 de septiembre",
+          "speaker": "Benjamin Moraga",
+          "affiliation": "Universidad de Chile",
+          "title": "Descomposición de variedades jacobianas con acción de un grupo afín."
+        },
+        {
+          "date": "2025-09-08",
+          "displayDate": "08 de septiembre",
+          "speaker": "Federico Castillo",
+          "affiliation": "Pontificia Universidad Católica",
+          "title": "Explosiones de Nash en variedades tóricas."
+        }
+      ]
+    },
+    {
+      "id": "2025-1",
+      "name": "PRIMER SEMESTRE 2025",
+      "current": false,
+      "talks": [
+        {
+          "date": "2025-06-16",
+          "displayDate": "16 de junio",
+          "speaker": "Felipe Rivera-Mesas",
+          "affiliation": "Universidad de Chile",
+          "title": "Dualidad de Lichtenbaum-van Hamel para variedades singulares sobre cuerpos p-ádicos."
+        },
+        {
+          "date": "2025-06-02",
+          "displayDate": "02 de junio",
+          "speaker": "Héctor del Castillo",
+          "affiliation": "Universidad Santiago de Chile",
+          "title": "Teoría de Hida superior para curvas modulares de Drinfeld."
+        },
+        {
+          "date": "2025-05-19",
+          "displayDate": "19 de mayo",
+          "speaker": "Ángel Pardo",
+          "affiliation": "Universidad de Chile",
+          "title": "Problema de conteo en billares infinitos y aproximacion en grupos algebraicos."
+        },
+        {
+          "date": "2025-05-05",
+          "displayDate": "05 de mayo",
+          "speaker": "Claudio Bravo",
+          "affiliation": "Universidad de Talca",
+          "title": "Sobre la invariancia homotópica para la homología de grupos artiméticos."
+        },
+        {
+          "date": "2025-04-21",
+          "displayDate": "21 de abril",
+          "speaker": "Luis Cid",
+          "affiliation": "Universidad Católica del Maule",
+          "title": "Derivaciones semisimples y acciones del grupo multiplicativo."
+        },
+        {
+          "date": "2025-04-07",
+          "displayDate": "07 de abril",
+          "speaker": "Olivier Martin",
+          "affiliation": "Instituto Nacional de Matemática Pura e Aplicada (IMPA)",
+          "title": "Trigonal curves on abelian varieties."
+        },
+        {
+          "date": "2025-03-24",
+          "displayDate": "24 de marzo",
+          "speaker": "Kęstutis Česnavičius",
+          "affiliation": "Institut de Mathématique d'Orsay",
+          "title": "The classification of G-torsors over the projective line."
+        },
+        {
+          "date": "2025-03-10",
+          "displayDate": "10 de marzo",
+          "speaker": "Martin Sombra",
+          "affiliation": "ICREA y Universitat de Barcelona",
+          "title": "Equidistribución de órbitas de Galois de puntos de altura pequeña."
+        },
+        {
+          "date": "2025-01-20",
+          "displayDate": "20 de enero",
+          "speaker": "Diego Izquierdo",
+          "affiliation": "École Polytechnique",
+          "title": "Aritmética de cuerpos completos de valuación discreta con cuerpo residual imperfecto."
+        },
+        {
+          "date": "2025-01-20",
+          "displayDate": "20 de enero",
+          "speaker": "Daniel Bravo",
+          "affiliation": "Universidad Austral",
+          "title": "Construcciones de complejos y cohomología de Tate en un anillo no Gorenstein: el caso de k[x,y]/(x^2,xy,y^2)."
+        }
+      ]
+    },
+    {
+      "id": "2024-2",
+      "name": "SEGUNDO SEMESTRE 2024",
+      "current": false,
+      "talks": [
+        {
+          "date": "2024-11-18",
+          "displayDate": "18 de noviembre",
+          "speaker": "Rocío Sepúlveda-Manzo",
+          "affiliation": "Pontificia Universidad Católica",
+          "title": "Sobre la factorización del grado modular."
+        },
+        {
+          "date": "2024-11-04",
+          "displayDate": "04 de noviembre",
+          "speaker": "Luis Arenas",
+          "affiliation": "Universidad de Chile",
+          "title": "Caminatas al azar en el árbol de Bruhat-Tits."
+        },
+        {
+          "date": "2024-10-21",
+          "displayDate": "21 de octubre",
+          "speaker": "Diego Lobos",
+          "affiliation": "Universidad de Valparaíso",
+          "title": "Nil graded algebras associated to triangular matrices and their applications to Soergel Calculus."
+        },
+        {
+          "date": "2024-10-07",
+          "displayDate": "07 de octubre",
+          "speaker": "Matías Alvarado",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Contando puntos algebraicos de grado acotado en curvas."
+        },
+        {
+          "date": "2024-09-23",
+          "displayDate": "23 de septiembre",
+          "speaker": "Siddarth Mathur",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "The Resolution Property and a local-global principle."
+        },
+        {
+          "date": "2024-09-09",
+          "displayDate": "09 de septiembre",
+          "speaker": "Felipe Gambardella",
+          "affiliation": "École Polytechnique",
+          "title": "Principio local-global para compactificaciones lisas de espacios homogéneos sobre cuerpos globales geométricos."
+        },
+        {
+          "date": "2024-09-09",
+          "displayDate": "09 de septiembre",
+          "speaker": "Claudio Bravo",
+          "affiliation": "Universidad de Talca",
+          "title": "Algunos resultados de aproximación diofantina sobre cuerpos de funciones."
+        },
+        {
+          "date": "2024-08-26",
+          "displayDate": "26 de agosto",
+          "speaker": "Yves Martin",
+          "affiliation": "Universidad de Chile",
+          "title": "Una variación de la transformada de Mellin para las formas modulares débilmente holomorfas."
+        },
+        {
+          "date": "2024-08-12",
+          "displayDate": "12 de agosto",
+          "speaker": "Roberto Díaz",
+          "affiliation": "Universidad de Chile",
+          "title": "Grupos de Automorfismos de álgebras monomiales de dimensión cero."
+        },
+        {
+          "date": "2024-07-29",
+          "displayDate": "29 de julio",
+          "speaker": "Michel Brion",
+          "affiliation": "Université Grenoble Alpes",
+          "title": "An analogue of the inverse Galois problem for automorphism groups of projective varieties."
+        }
+      ]
+    },
+    {
+      "id": "2024-1",
+      "name": "PRIMER SEMESTRE 2024",
+      "current": false,
+      "talks": [
+        {
+          "date": "2024-07-15",
+          "displayDate": "15 de julio",
+          "speaker": "Hector Pastén",
+          "affiliation": "Pontificia Universidad Católica",
+          "title": "Variedades xéricas."
+        },
+        {
+          "date": "2024-07-15",
+          "displayDate": "15 de julio",
+          "speaker": "Ignacio Barros",
+          "affiliation": "University of Antwerp",
+          "title": "Effective and Noether-Lefschetz divisors on orthogonal modular varieties."
+        },
+        {
+          "date": "2024-06-24",
+          "displayDate": "24 de junio",
+          "speaker": "Benjamín Castillo",
+          "affiliation": "Pontificia Universidad Católica",
+          "title": "Una familia de extensiones algebraicas de Q con la propiedad de Bogomolov."
+        },
+        {
+          "date": "2024-06-10",
+          "displayDate": "10 de junio",
+          "speaker": "Roberto Villaflor",
+          "affiliation": "Universidad Técnica Federico Santamaría",
+          "title": "Periodos de ciclos algebraicos y aplicaciones al locus de Hodge."
+        },
+        {
+          "date": "2024-05-27",
+          "displayDate": "27 de mayo",
+          "speaker": "Rodolfo Gutierrez",
+          "affiliation": "Universidad de Chile",
+          "title": "Grupos de monodromía de diferenciales cuadráticos."
+        },
+        {
+          "date": "2024-05-06",
+          "displayDate": "06 de mayo",
+          "speaker": "Antonio Laface",
+          "affiliation": "Universidad de Concepción",
+          "title": "On blowing up minimal toric surfaces."
+        },
+        {
+          "date": "2024-04-22",
+          "displayDate": "22 de abril",
+          "speaker": "Patricio Pérez",
+          "affiliation": "Pontificia Universidad Católica",
+          "title": "Una versión p-ádica del Teorema de Duke sobre la equidistribución de geodésicas."
+        },
+        {
+          "date": "2024-04-08",
+          "displayDate": "08 de abril",
+          "speaker": "Riccardo Pengo",
+          "affiliation": "Leibniz Universitat Hannover",
+          "title": "Limits of Mahler measures and successively exact polynomials."
+        },
+        {
+          "date": "2024-03-25",
+          "displayDate": "25 de marzo",
+          "speaker": "José Alejandro Samper",
+          "affiliation": "Pontificia Universidad Católica",
+          "title": "El índice cd de una variedad celulada."
+        },
+        {
+          "date": "2024-03-11",
+          "displayDate": "11 de marzo",
+          "speaker": "Yulieth Prieto",
+          "affiliation": "ICTP Trieste",
+          "title": "Estudiando algunas propiedades de las superficies K3 a través de otras superficies."
+        }
+      ]
+    },
+    {
+      "id": "2023-2",
+      "name": "SEGUNDO SEMESTRE 2023",
+      "current": false,
+      "talks": [
+        {
+          "date": "2023-11-27",
+          "displayDate": "27 de Noviembre",
+          "speaker": "Giancarlo Lucchini",
+          "affiliation": "Universidad de Chile",
+          "title": "Versiones superiores de la Conjetura II de Serre."
+        },
+        {
+          "date": "2023-11-27",
+          "displayDate": "27 de Noviembre",
+          "speaker": "David Grimm",
+          "affiliation": "Universidad de Santiago de Chile",
+          "title": "Una desigualdad de género aritmética con aplicación a sumas de cuadrados."
+        },
+        {
+          "date": "2023-11-13",
+          "displayDate": "13 de Noviembre",
+          "speaker": "Jose Ayala Hoffmann",
+          "affiliation": "Universidad de Tarapacá",
+          "title": "On Geometric Knots."
+        },
+        {
+          "date": "2023-10-30",
+          "displayDate": "30 de Octubre",
+          "speaker": "Anita Rojas",
+          "affiliation": "Universidad de Chile",
+          "title": "Sobre subconjuntos y lugares especiales en Mg y Ag."
+        },
+        {
+          "date": "2023-10-16",
+          "displayDate": "16 de Octubre",
+          "speaker": "Daniel Barrera",
+          "affiliation": "Universidad de Santiago de Chile",
+          "title": "Variedades de Hecke para GL(4) y aritmética."
+        },
+        {
+          "date": "2023-10-02",
+          "displayDate": "02 de Octubre",
+          "speaker": "Jeremy Martin",
+          "affiliation": "University of Kansas",
+          "title": "¿Cuántos árboles tiene una red?"
+        },
+        {
+          "date": "2023-09-25",
+          "displayDate": "25 de Septiembre",
+          "speaker": "Claudio Bravo",
+          "affiliation": "École Polytechnique",
+          "title": "Algunos aspectos aritméticos de grupos escindidos sobre cuerpos de funciones."
+        },
+        {
+          "date": "2023-09-04",
+          "displayDate": "4 de Septiembre",
+          "speaker": "Giancarlo Urzúa",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Cotas Óptimas Para Un Número Arbitrario de T-Singularidades en Superficies Ksba Estables."
+        },
+        {
+          "date": "2023-08-21",
+          "displayDate": "21 de Agosto",
+          "speaker": "Felipe Gambardella",
+          "affiliation": "École Polytechnique",
+          "title": "Reocurrencia para cuerpos de funciones."
+        }
+      ]
+    },
+    {
+      "id": "2023-1",
+      "name": "PRIMER SEMESTRE 2023",
+      "current": false,
+      "talks": [
+        {
+          "date": "2023-07-10",
+          "displayDate": "10 de Julio",
+          "speaker": "Diego Izquierdo",
+          "affiliation": "École Polytechnique",
+          "title": "Aritmética de ecuaciones en un gran número de variables."
+        },
+        {
+          "date": "2023-07-10",
+          "displayDate": "10 de Julio",
+          "speaker": "Benoit Loisel",
+          "affiliation": "Université de Poitiers",
+          "title": "Lambda-buildings associated to quasi-split reductive groups."
+        },
+        {
+          "date": "2023-07-03",
+          "displayDate": "3 de Julio",
+          "speaker": "Ignacio Barros",
+          "affiliation": "University of Antwerp",
+          "title": "Irrationality of moduli spaces of K3 surfaces."
+        },
+        {
+          "date": "2023-06-19",
+          "displayDate": "19 de Junio",
+          "speaker": "Philippe Michel",
+          "affiliation": "École Polytechnique Fédérale de Lausanne",
+          "title": "The equidistribution theorems of Linnik and Duke, and beyond."
+        },
+        {
+          "date": "2023-06-12",
+          "displayDate": "12 de Junio",
+          "speaker": "Stephen Griffeth",
+          "affiliation": "Universidad de Talca",
+          "title": "Fibras de aplicaciones cocientes."
+        },
+        {
+          "date": "2023-06-05",
+          "displayDate": "05 de Junio",
+          "speaker": "Marco Zaninelli",
+          "affiliation": "University of Antwerp",
+          "title": "Upper bounds for the Pythagoras number of fields."
+        },
+        {
+          "date": "2023-05-22",
+          "displayDate": "22 de Mayo",
+          "speaker": "Jorge Duque",
+          "affiliation": "Universidad de Chile",
+          "title": "Acerca de una conjetura de Movasati: ¿Puede la dimensión del tangente del Locus de Hodge caracterizar los cíclos lineales?"
+        },
+        {
+          "date": "2023-05-08",
+          "displayDate": "08 de Mayo",
+          "speaker": "David Plaza",
+          "affiliation": "Universidad de Talca",
+          "title": "Bases pre-canónicas para álgebras de Hecke afín."
+        },
+        {
+          "date": "2023-04-17",
+          "displayDate": "17 de Abril",
+          "speaker": "Sebastian Donoso",
+          "affiliation": "Universidad de Chile",
+          "title": "Interacciones entre la teoría ergódica y la teoría de números."
+        },
+        {
+          "date": "2023-04-03",
+          "displayDate": "03 de Abril",
+          "speaker": "Ricardo Menares",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Módulos singulares de funciones modulares."
+        },
+        {
+          "date": "2023-03-20",
+          "displayDate": "20 de Marzo",
+          "speaker": "Siddarth Mathur",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Searching for the impossible Azumaya algebra."
+        }
+      ]
+    },
+    {
+      "id": "2022-2",
+      "name": "SEGUNDO SEMESTRE 2022",
+      "current": false,
+      "talks": [
+        {
+          "date": "2022-12-12",
+          "displayDate": "12 de diciembre",
+          "speaker": "Amalia Pizarro",
+          "affiliation": "Universidad de Valparaíso",
+          "title": "Curvas hiperelipticas de genero 2 en criptografia."
+        },
+        {
+          "date": "2022-12-12",
+          "displayDate": "12 de diciembre",
+          "speaker": "Odalis Ortega",
+          "affiliation": "Universidad de Valparaíso",
+          "title": "Paralelismo en las formulas de la raiz cuadrada de Velu en isogenias."
+        },
+        {
+          "date": "2022-12-05",
+          "displayDate": "05 de diciembre",
+          "speaker": "Natalia Garcia",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Sobre las conjeturas de Vojta."
+        },
+        {
+          "date": "2022-11-21",
+          "displayDate": "21 de noviembre",
+          "speaker": "Martin Raum",
+          "affiliation": "Chalmers University of Technology",
+          "title": "Divisibility questions on the partition function and Fourier coefficients of modular forms."
+        },
+        {
+          "date": "2022-11-21",
+          "displayDate": "21 de noviembre",
+          "speaker": "Tobias Martinez",
+          "affiliation": "Pontificia Universidad Católica de Chile Valparaíso",
+          "title": "La conjetura de Manin para variedades toricas con pocos generadores."
+        },
+        {
+          "date": "2022-11-07",
+          "displayDate": "07 de noviembre",
+          "speaker": "Riccardo Brasca",
+          "affiliation": "U. Paris Cite",
+          "title": "Formalized mathematics: how to explain condensed sets to a computer."
+        },
+        {
+          "date": "2022-11-07",
+          "displayDate": "07 de noviembre",
+          "speaker": "Gonzalo Manzano",
+          "affiliation": "Universidad Santiago de Chile y U.Antwerp",
+          "title": "El numero de Pitagoras del cuerpo de funciones de una curva."
+        },
+        {
+          "date": "2022-10-24",
+          "displayDate": "24 de octubre",
+          "speaker": "Eduardo Friedman",
+          "affiliation": "Universidad de Chile",
+          "title": "Metodos analiticos y el regulador de un cuerpo de numeros."
+        },
+        {
+          "date": "2022-10-17",
+          "displayDate": "17 de octubre",
+          "speaker": "Roberto Villaflor",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Estructuras de Hodge en Variedades de Klein."
+        },
+        {
+          "date": "2022-10-17",
+          "displayDate": "17 de octubre",
+          "speaker": "Matias Alvarado",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Modulos de Drinfield y conjuntos de Zsigmondy."
+        },
+        {
+          "date": "2022-10-03",
+          "displayDate": "03 de octubre",
+          "speaker": "Antonio Cauchi",
+          "affiliation": "Centre de Recherches Mathematiques, Canada",
+          "title": "Instances of the Birch and Swinnerton-Dyer conjecture for elliptic curves over totally real fields."
+        },
+        {
+          "date": "2022-09-26",
+          "displayDate": "26 de septiembre",
+          "speaker": "Pedro Montero",
+          "affiliation": "Universidad Técnica Federico Santamaría",
+          "title": "Estructuras unipotentes en quinticas de del Pezzo."
+        },
+        {
+          "date": "2022-09-26",
+          "displayDate": "26 de septiembre",
+          "speaker": "Gary Martinez",
+          "affiliation": "Universidad de Chile",
+          "title": "Fibrados asociados a cocientes suaves de variedades abelianas."
+        },
+        {
+          "date": "2022-09-05",
+          "displayDate": "05 de septiembre",
+          "speaker": "Alvaro Liendo",
+          "affiliation": "Universidad de Talca",
+          "title": "Sobre la levantabilidad del grupo de automorfismos de hipersuperficies en el espacio proyectivo."
+        },
+        {
+          "date": "2022-09-05",
+          "displayDate": "05 de septiembre",
+          "speaker": "Jerson Caro",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Fibras de una superficie eliptica en donde el rango no salta."
+        },
+        {
+          "date": "2022-08-29",
+          "displayDate": "29 de agosto",
+          "speaker": "Luis Santiago Palacios",
+          "affiliation": "Universidad Santiago de Chile",
+          "title": "Sobre funciones L p-adicas de formas de Bianchi no cuspidales."
+        },
+        {
+          "date": "2022-08-29",
+          "displayDate": "29 de agosto",
+          "speaker": "Felipe Rivera-Mesas",
+          "affiliation": "Universidad de Chile",
+          "title": "Propiedades de aproximacion en cohomologia galoisiana de grupos finitos."
+        }
+      ]
+    },
+    {
+      "id": "2022-1",
+      "name": "PRIMER SEMESTRE 2022",
+      "current": false,
+      "talks": [
+        {
+          "date": "2022-06-06",
+          "displayDate": "6 de junio",
+          "speaker": "Diego Izquierdo",
+          "affiliation": "École Polytechnique",
+          "title": "K-teoría de Milnor y cero-ciclos sobre cuerpos de funciones p-ádicos."
+        },
+        {
+          "date": "2022-05-23",
+          "displayDate": "23 de mayo",
+          "speaker": "Yves Martin",
+          "affiliation": "Universidad de Chile",
+          "title": "Una forma cuadrática entera, pos. definida, y primitiva, representa infinitos primos."
+        },
+        {
+          "date": "2022-05-09",
+          "displayDate": "9 de mayo",
+          "speaker": "Héctor Pastén",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Sobre la conjetura de Hall."
+        },
+        {
+          "date": "2022-04-25",
+          "displayDate": "25 de abril",
+          "speaker": "Sebastián Reyes Carocca",
+          "affiliation": "Universidad de Chile",
+          "title": "Automorfismos de superficies de Riemann de género p+1 donde p es primo."
+        },
+        {
+          "date": "2022-04-11",
+          "displayDate": "11 de abril",
+          "speaker": "Héctor del Castillo",
+          "affiliation": "Universidad Santiago de Chile",
+          "title": "Conjetura de funtorialidad de Langlands genérica para SO."
+        },
+        {
+          "date": "2022-03-28",
+          "displayDate": "28 de marzo",
+          "speaker": "Federico Castillo",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Cuando son los multigrados positivos?"
+        }
+      ]
+    },
+    {
+      "id": "2020-1",
+      "name": "PRIMER SEMESTRE 2020",
+      "current": false,
+      "talks": [
+        {
+          "date": "2020-03-04",
+          "displayDate": "4 de marzo",
+          "speaker": "Eyal Goren",
+          "affiliation": "McGill University",
+          "title": "Complex multiplication - old and new"
+        }
+      ]
+    },
+    {
+      "id": "2019-2",
+      "name": "SEGUNDO SEMESTRE 2019",
+      "current": false,
+      "talks": [
+        {
+          "date": "2020-01-22",
+          "displayDate": "22 de enero",
+          "speaker": "Diego Izquierdo",
+          "affiliation": "École Polytechnique",
+          "title": "Lambda-buildings associated to quasi-split groups over Lambda-valued fields"
+        },
+        {
+          "date": "2020-01-22",
+          "displayDate": "22 de enero",
+          "speaker": "Karim Johannes Becher",
+          "affiliation": "Universiteit Antwerpen",
+          "title": "Quadratic forms and diophantine sets"
+        },
+        {
+          "date": "2020-01-14",
+          "displayDate": "14 de enero",
+          "speaker": "Chao Li",
+          "affiliation": "Columbia University",
+          "title": "On the Kudla-Rapoport conjecture"
+        },
+        {
+          "date": "2019-12-18",
+          "displayDate": "18 de diciembre",
+          "speaker": "Victor Delage",
+          "affiliation": "Université de Rennes",
+          "title": "From regulous to rational bounded functions"
+        },
+        {
+          "date": "2019-10-02",
+          "displayDate": "02 de octubre",
+          "speaker": "Cristóbal Rivas",
+          "affiliation": "Universidad Santiago de Chile",
+          "title": "Sobre grupos residualmente finitos y generalizaciones"
+        },
+        {
+          "date": "2019-09-25",
+          "displayDate": "25 de septiembre",
+          "speaker": "Jerson Caro",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Contando el número de puntos racionales de una subvariedad en una variedad abeliana"
+        },
+        {
+          "date": "2019-09-04",
+          "displayDate": "04 de septiembre",
+          "speaker": "Adrián Zenteno",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "El problema inverso de Galois para ciertos grupos de tipo Lie"
+        },
+        {
+          "date": "2019-08-21",
+          "displayDate": "21 de agosto",
+          "speaker": "Martí Lahoz",
+          "affiliation": "Barcelona",
+          "title": "Stability conditions on non-commutative K3 surfaces"
+        },
+        {
+          "date": "2019-08-07",
+          "displayDate": "07 de agosto",
+          "speaker": "Álex Capuñay",
+          "affiliation": "Universidad de Chile",
+          "title": "Algoritmo para determinar dominios fundamentales de cuerpos de números"
+        },
+        {
+          "date": "2019-07-24",
+          "displayDate": "24 de julio",
+          "speaker": "Benoit Loisel",
+          "affiliation": "ENS Lyon",
+          "title": "On compact-open subgroups of linear algebraic groups over local fields"
+        },
+        {
+          "date": "2019-07-10",
+          "displayDate": "10 de julio",
+          "speaker": "Milton Espinoza",
+          "affiliation": "Universidad de Valparaíso",
+          "title": "Una pareja de coeficientes de Taylor"
+        }
+      ]
+    },
+    {
+      "id": "2019-1",
+      "name": "PRIMER SEMESTRE 2019",
+      "current": false,
+      "talks": [
+        {
+          "date": "2019-06-18",
+          "displayDate": "18 de junio",
+          "speaker": "Héctor Pastén",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "El décimo problema de Hilbert para ciertos anillos de enteros de grado seis"
+        },
+        {
+          "date": "2019-06-11",
+          "displayDate": "11 de junio",
+          "speaker": "Fernando Herrera",
+          "affiliation": "Universidad de Chile",
+          "title": "Una serie de Koecher-Maass en varias variables"
+        },
+        {
+          "date": "2019-06-04",
+          "displayDate": "04 de junio",
+          "speaker": "Luis Arenas",
+          "affiliation": "Universidad de Chile",
+          "title": "El árbol de Bruhat-Tits y el álgebra de matrices"
+        },
+        {
+          "date": "2019-05-28",
+          "displayDate": "28 de mayo",
+          "speaker": "Marco Godoy",
+          "affiliation": "Universidad de Chile",
+          "title": "Acciones de grupos de unidades de órdenes de Eichler sobre el árbol de Bruhat-Tits, asociados a divisores de grado 1 y 2"
+        },
+        {
+          "date": "2019-05-14",
+          "displayDate": "14 de mayo",
+          "speaker": "Estefanía Bravo",
+          "affiliation": "Universidad de Chile",
+          "title": "Variedades Jacobianas Isógenas vía cubrimientos intermedios"
+        },
+        {
+          "date": "2019-05-07",
+          "displayDate": "07 de mayo",
+          "speaker": "Daniel Barrera",
+          "affiliation": "Universidad de Santiago de Chile",
+          "title": "Curvas elípticas y valores de funciones L complejas y p-ádicas"
+        },
+        {
+          "date": "2019-04-30",
+          "displayDate": "30 de abril",
+          "speaker": "Ricardo Menares",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Equidistribución y S-unidades"
+        },
+        {
+          "date": "2019-04-16",
+          "displayDate": "16 de abril",
+          "speaker": "Robert Auffarth",
+          "affiliation": "Universidad de Chile",
+          "title": "Trisecantes de la variedad de Kummer de una variedad Jacobiana"
+        },
+        {
+          "date": "2019-04-09",
+          "displayDate": "9 de abril",
+          "speaker": "Irene Spelta",
+          "affiliation": "Universita di Pavia",
+          "title": "On special subvarieties of Ag contained in the Torelli locus"
+        },
+        {
+          "date": "2019-04-02",
+          "displayDate": "02 de abril",
+          "speaker": "Mikhail Borovoi",
+          "affiliation": "Tel Aviv University",
+          "title": "Real Models of Spherical Homogeneous Spaces"
+        },
+        {
+          "date": "2019-03-26",
+          "displayDate": "26 de marzo",
+          "speaker": "David Leep",
+          "affiliation": "University of Kentucky",
+          "title": "Liouville's problem on quaternary quadratic forms"
+        },
+        {
+          "date": "2019-03-19",
+          "displayDate": "19 de marzo",
+          "speaker": "José Ignacio Burgos Gil",
+          "affiliation": "ICMAT",
+          "title": "Height pairing between arithmetic cycles"
+        },
+        {
+          "date": "2019-03-12",
+          "displayDate": "12 de marzo",
+          "speaker": "Sebastián Herrero",
+          "affiliation": "Pontificia Universidad Católica de Valparaíso",
+          "title": "Equidistribución p-ádica de puntos enteros en hipersuperficies cuadráticas"
+        },
+        {
+          "date": "2019-03-05",
+          "displayDate": "05 de marzo",
+          "speaker": "Stefan Gille",
+          "affiliation": "University of Alberta",
+          "title": "Residue Maps for Hermitian Forms of Central Simple Algebras"
+        }
+      ]
+    },
+    {
+      "id": "2018-2",
+      "name": "SEGUNDO SEMESTRE 2018",
+      "current": false,
+      "talks": [
+        {
+          "date": "2019-01-04",
+          "displayDate": "04 de enero",
+          "speaker": "Yuri Bilu",
+          "affiliation": "Université de Bordeaux",
+          "title": "Singular units do not exist"
+        },
+        {
+          "date": "2019-01-25",
+          "displayDate": "25 de enero",
+          "speaker": "Diego Izquierdo",
+          "affiliation": "MPIM Bonn",
+          "title": "Dimensión de los cuerpos, K-teoría y aritmética de los espacios homogéneos"
+        },
+        {
+          "date": "2018-12-03",
+          "displayDate": "03 de diciembre",
+          "speaker": "Winfried Kohnen",
+          "affiliation": "Ruprecht-Karls-Universität Heidelberg",
+          "title": "On the Ramanujan-Petersson conjecture for modular forms of half-integral weight"
+        },
+        {
+          "date": "2018-11-26",
+          "displayDate": "26 de noviembre",
+          "speaker": "David Leep",
+          "affiliation": "University of Kentucky",
+          "title": "Homogeneous forms over p-adic fields"
+        },
+        {
+          "date": "2018-11-19",
+          "displayDate": "19 de noviembre",
+          "speaker": "Pedro Mendoza",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Progresiones aritméticas de puntos enteros en curvas elípticas congruentes de rango mayor que 1"
+        },
+        {
+          "date": "2018-11-05",
+          "displayDate": "05 de noviembre",
+          "speaker": "Gabriel Ramírez",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Cotas inferiores para reguladores de cuerpos de números"
+        },
+        {
+          "date": "2018-10-29",
+          "displayDate": "29 de octubre",
+          "speaker": "Gonzalo Manzano",
+          "affiliation": "Universidad de Santiago de Chile",
+          "title": "Sumas de cuadrados en cuerpos de funciones de curvas elípticas e hiperelípticas sobre el cuerpo de series formales reales"
+        },
+        {
+          "date": "2018-10-08",
+          "displayDate": "08 de octubre",
+          "speaker": "Maximiliano Leyton",
+          "affiliation": "Universidad de Talca",
+          "title": "Resoluciones simultáneas de singularidades, deformaciones y espacios de m-jets"
+        },
+        {
+          "date": "2018-10-01",
+          "displayDate": "01 de octubre",
+          "speaker": "Jorge Pereira",
+          "affiliation": "IMPA",
+          "title": "Webs and abelian relations"
+        },
+        {
+          "date": "2018-09-24",
+          "displayDate": "24 de septiembre",
+          "speaker": "Yves Martin",
+          "affiliation": "Universidad de Chile",
+          "title": "Sobre coeficientes de Fourier que determinan formas de Siegel de grado 2"
+        },
+        {
+          "date": "2018-09-10",
+          "displayDate": "10 de septiembre",
+          "speaker": "Sebastián Rahausen",
+          "affiliation": "Universidad de Chile",
+          "title": "Inmersiones de Galois de variedades proyectivas"
+        },
+        {
+          "date": "2018-09-03",
+          "displayDate": "03 de septiembre",
+          "speaker": "Xavier Vidaux",
+          "affiliation": "Universidad de Concepción",
+          "title": "Conexión entre un resultado de Uchida y uno de Lüneburg con respecto a la monogeneidad de campos de números"
+        },
+        {
+          "date": "2018-08-27",
+          "displayDate": "27 de agosto",
+          "speaker": "Damaris Schindler",
+          "affiliation": "Utrecht University",
+          "title": "Diophantine inequalities for ternary diagonal forms"
+        },
+        {
+          "date": "2018-08-20",
+          "displayDate": "20 de agosto",
+          "speaker": "Anita Rojas",
+          "affiliation": "Universidad de Chile",
+          "title": "Acciones de grupo en superficies de Riemann y variedades abelianas"
+        },
+        {
+          "date": "2018-08-13",
+          "displayDate": "13 de agosto",
+          "speaker": "Sergio Troncoso",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Algunos resultados topológicos sobre los esquemas puntuales de Hilbert y los esquemas cociente"
+        },
+        {
+          "date": "2018-08-06",
+          "displayDate": "06 de agosto",
+          "speaker": "Amalia Pizarro",
+          "affiliation": "Universidad de Valparaíso",
+          "title": "Crecimiento del conductor de Artin"
+        }
+      ]
+    },
+    {
+      "id": "2018-1",
+      "name": "PRIMER SEMESTRE 2018",
+      "current": false,
+      "talks": [
+        {
+          "date": "2018-07-04",
+          "displayDate": "04 de julio",
+          "speaker": "Benoit Loisel",
+          "affiliation": "ENS Lyon",
+          "title": "Explicit minimal generation of some linear pro-p groups"
+        },
+        {
+          "date": "2018-06-27",
+          "displayDate": "27 de junio",
+          "speaker": "Giancarlo Urzúa",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Variedades hiperbólicas"
+        },
+        {
+          "date": "2018-06-20",
+          "displayDate": "20 de junio",
+          "speaker": "Matías Alvarado",
+          "affiliation": "Universidad de Chile",
+          "title": "Puntos Fijos en Endomorfismos de Toros Complejos y Variedades Abelianas"
+        },
+        {
+          "date": "2018-06-13",
+          "displayDate": "13 de junio",
+          "speaker": "Matthieu Arfeux",
+          "affiliation": "Pontificia Universidad Católica de Valparaíso",
+          "title": "Espacio de Berkovich y Compactificación de Deligne-Mumford en Dinámica Holomorfa"
+        },
+        {
+          "date": "2018-06-06",
+          "displayDate": "6 de junio",
+          "speaker": "Stephen Griffeth",
+          "affiliation": "Universidad de Talca",
+          "title": "Aplicaciones de Las Fórmulas de Las Normas de Polinomios Ortogonales en la Teoría de Representaciones"
+        },
+        {
+          "date": "2018-05-30",
+          "displayDate": "30 de mayo",
+          "speaker": "Sebastián Reyes",
+          "affiliation": "Universidad de la Frontera",
+          "title": "Superficies de Riemann determinadas por sus grupos de automorfismos"
+        },
+        {
+          "date": "2018-05-23",
+          "displayDate": "23 de mayo",
+          "speaker": "Nicolas Thériault",
+          "affiliation": "Universidad de Santiago de Chile",
+          "title": "Resolver el logaritmo discreto utilizando información parcial"
+        },
+        {
+          "date": "2018-05-09",
+          "displayDate": "9 de mayo",
+          "speaker": "Pablo Quezada",
+          "affiliation": "Pontificia Universidad Católica de Chile",
+          "title": "Cocientes suaves de variedades abelianas"
+        },
+        {
+          "date": "2018-05-02",
+          "displayDate": "2 de mayo",
+          "speaker": "Héctor Pastén",
+          "affiliation": "Harvard University",
+          "title": "Puntos algebraicos y sus alturas"
+        },
+        {
+          "date": "2018-04-25",
+          "displayDate": "25 de abril",
+          "speaker": "Ignacio Saavedra",
+          "affiliation": "Universidad de Chile",
+          "title": "Edificios de Bruhat-Tits"
+        },
+        {
+          "date": "2018-04-18",
+          "displayDate": "18 de abril",
+          "speaker": "Matthieu Florence",
+          "affiliation": "Université Paris VI",
+          "title": "Splitting Families in Galois Cohomology"
+        },
+        {
+          "date": "2018-04-11",
+          "displayDate": "11 de abril",
+          "speaker": "Tomás Seguel",
+          "affiliation": "Universidad de Santiago de Chile",
+          "title": "Sobre sumas de cuadrados en R y (X,Y) curvas elípticas en R(X)"
+        },
+        {
+          "date": "2018-04-04",
+          "displayDate": "04 de abril",
+          "speaker": "Óscar Vega",
+          "affiliation": "California State University, Fresno",
+          "title": "Unitales en los planos de Figueroa"
+        },
+        {
+          "date": "2018-03-28",
+          "displayDate": "28 de marzo",
+          "speaker": "Arvind Kumar",
+          "affiliation": "National Institute of Science Education and Research",
+          "title": "Identities among eigenforms"
+        },
+        {
+          "date": "2018-03-21",
+          "displayDate": "21 de marzo",
+          "speaker": "Álvaro Liendo",
+          "affiliation": "Universidad de Talca",
+          "title": "Caracterización de variedades tóricas afines por su grupo de automorfismos"
+        }
+      ]
+    },
+    {
+      "id": "2018-0",
+      "name": "ENERO 2018",
+      "current": false,
+      "talks": [
+        {
+          "date": "2018-01-05",
+          "displayDate": "5 de enero",
+          "speaker": "David Leep",
+          "affiliation": "University of Kentucky",
+          "title": "Systems of quadratic forms over complete discretely valued fields - an introduction"
+        },
+        {
+          "date": "2018-01-05",
+          "displayDate": "5 de enero",
+          "speaker": "Eberhard Becker",
+          "affiliation": "TU Dortmund",
+          "title": "Sums of powers of function fields in one variable over R"
+        },
+        {
+          "date": "2018-01-05",
+          "displayDate": "5 de enero",
+          "speaker": "Jean-Louis Colliot-Thelene",
+          "affiliation": "Universite Paris 11",
+          "title": "The Brauer group and beyond"
+        }
+      ]
+    }
+  ]
+}
