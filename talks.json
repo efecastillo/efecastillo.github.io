@@ -20,11 +20,39 @@
           "title": "Sizes of Bruhat intervals."
         },
         {
-          "date": "2026-03-30",
-          "displayDate": "30 de marzo",
+          "date": "2026-03-23",
+          "displayDate": "23 de marzo",
+          "speaker": "Sokratis Zikas",
+          "affiliation": "On simplicity of the Cremona groups",
+          "title": ""
+        },
+        {
+          "date": "2026-04-13",
+          "displayDate": "13 de abril",
+          "speaker": "Luis Santiago Palacios",
+          "affiliation": "Universidad de Chile",
+          "title": ""
+        },
+        {
+          "date": "2026-04-27",
+          "displayDate": "27 de abril",
+          "speaker": "Gonzalo Manzano",
+          "affiliation": "Universidad de Valparaíso",
+          "title": ""
+        },
+        {
+          "date": "2026-05-11",
+          "displayDate": "11 de mayo",
           "speaker": "Yulieth Prieto",
           "affiliation": "Pontificia Universidad Católica",
           "title": "Categorias derivadas de superficies de Gushel-Mukai."
+        },
+        {
+          "date": "2026-05-25",
+          "displayDate": "25 de mayo",
+          "speaker": "Jose Yañez",
+          "affiliation": "Universidad Técnica Federico Santamaría",
+          "title": ""
         }
       ]
     },
