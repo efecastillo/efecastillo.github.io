@@ -6,6 +6,13 @@
       "current": true,
       "talks": [
         {
+          "date": "2026-06-08",
+          "displayDate": "08 de junio",
+          "speaker": "Yulieth Prieto",
+          "affiliation": "Pontificia Universidad Católica",
+          "title": "Categorias derivadas de superficies de Gushel-Mukai."
+        },
+        {
           "date": "2026-05-25",
           "displayDate": "25 de mayo",
           "speaker": "Jose Yañez",
@@ -15,30 +22,30 @@
         {
           "date": "2026-05-11",
           "displayDate": "11 de mayo",
-          "speaker": "Yulieth Prieto",
-          "affiliation": "Pontificia Universidad Católica",
-          "title": "Categorias derivadas de superficies de Gushel-Mukai."
+          "speaker": "",
+          "affiliation": "",
+          "title": ""
         },
         {
           "date": "2026-04-27",
           "displayDate": "27 de abril",
           "speaker": "Gonzalo Manzano",
           "affiliation": "Universidad de Valparaíso",
-          "title": ""
+          "title": "Sobre la finitud de valuaciones no regladas."
         },
         {
           "date": "2026-04-13",
           "displayDate": "13 de abril",
           "speaker": "Luis Arenas",
           "affiliation": "Universidad de Chile",
-          "title": "Formas enteras de representaciones via edificios de Bruhat-Tits"
+          "title": "Formas enteras de representaciones via edificios de Bruhat-Tits."
         },
         {
           "date": "2026-03-23",
           "displayDate": "23 de marzo",
           "speaker": "Sokratis Zikas",
           "affiliation": "Instituto Nacional de Matemática Pura e Aplicada (IMPA)",
-          "title": "On simplicity of the Cremona groups"
+          "title": "On simplicity of the Cremona groups."
         },
         {
           "date": "2026-03-16",
