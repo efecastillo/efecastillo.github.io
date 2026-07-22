@@ -1,31 +1,31 @@
 {
   "semesters": [
     {
-      "id": "2026-1",
-      "name": "PRIMER SEMESTRE 2026",
+      "id": "2026-2",
+      "name": "SEGUNDO SEMESTRE 2026",
       "current": true,
       "talks": [
         {
-          "date": "2026-06-08",
-          "displayDate": "08 de junio",
-          "speaker": "Yulieth Prieto",
-          "affiliation": "Pontificia Universidad Católica",
-          "title": "Categorias derivadas de superficies de Gushel-Mukai."
-        },
-        {
-          "date": "2026-05-25",
-          "displayDate": "25 de mayo",
-          "speaker": "Jose Yañez",
-          "affiliation": "Universidad Técnica Federico Santamaría",
-          "title": ""
-        },
-        {
-          "date": "2026-05-11",
-          "displayDate": "11 de mayo",
+          "date": "",
+          "displayDate": "",
           "speaker": "",
           "affiliation": "",
           "title": ""
         },
+        {
+          "date": "",
+          "displayDate": "",
+          "speaker": "",
+          "affiliation": "",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "id": "2026-1",
+      "name": "PRIMER SEMESTRE 2026",
+      "current": false,
+      "talks": [
         {
           "date": "2026-04-27",
           "displayDate": "27 de abril",
